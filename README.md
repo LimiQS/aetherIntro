@@ -12,13 +12,13 @@ aetherIntro is developed for AetherPray VTuber Project.
 
 ### Screenshot
 
-
+![](https://raw.githubusercontent.com/LimiQS/aetherIntro/master/aetherIntroPreview.png)
 
 
 
 ### Usage
 
-###### Keyboard shortcuts
+##### Keyboard shortcuts
 
 Ctrl + Alt + W or Hold ESC: Quit
 
@@ -26,7 +26,7 @@ F5: Reload configuration
 
 
 
-###### Configuration File
+##### Configuration File
 
 *The configuration file is **config.json** in the same directory as the program*
 
@@ -60,7 +60,7 @@ F5: Reload configuration
 
 
 
-###### Debug Mode
+##### Debug Mode
 
 In debug mode, the following behavior will be different from default:
 
